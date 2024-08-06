@@ -50,4 +50,4 @@ Por ejemplo:
 
 ---
 
-## [ir a la pagina](https://cfaundes.github.io/Encriptador-de-texto/) 👈
+## [ir a la pagina](https://cfaundes.github.io/encriptador-de-texto/) 👈
